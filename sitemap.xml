@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sognineibicchieri.github.io/2024/03/23/20240323-10days-venice-000/</loc>
+    
+    <lastmod>2024-03-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sognineibicchieri.github.io/2024/03/25/20240325-10days-venice-001/</loc>
+    
+    <lastmod>2024-03-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sognineibicchieri.github.io/2024/03/24/20240324-a-blue-reverie/</loc>
     
     <lastmod>2024-03-24</lastmod>
@@ -276,7 +294,28 @@
   </url>
   
   <url>
+    <loc>https://sognineibicchieri.github.io/categories/QUOTE/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sognineibicchieri.github.io/categories/LYRICS/TRANSLATION/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sognineibicchieri.github.io/categories/NOVEL/</loc>
+    <lastmod>2024-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sognineibicchieri.github.io/categories/PROFILE/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -290,14 +329,7 @@
   </url>
   
   <url>
-    <loc>https://sognineibicchieri.github.io/categories/QUOTE/</loc>
-    <lastmod>2024-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sognineibicchieri.github.io/categories/PROFILE/</loc>
+    <loc>https://sognineibicchieri.github.io/categories/NOVEL/ANIME/</loc>
     <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
